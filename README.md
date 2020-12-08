@@ -1,4 +1,4 @@
-# SML-310-Final-Project
+# SML 310 Final Project: Modeling hurricane track development under climate change
 
 North Atlantic hurricanes pose a substantial risk to people’s safety and wellbeing in the United States. As a result, it is important to investigate how storms will behave in the future and in particular how and why their movement will be affected by climate change. I investigate how hurricane steering flow is changing and how data science models can be used to understand these changes. 
 
