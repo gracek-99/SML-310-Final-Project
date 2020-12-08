@@ -6,7 +6,7 @@ My two questions are:
 1.	 How well can a simple statistical or empirical model predict hurricane movement from one time period to the next? 
 2.	How has the way that hurricanes move been changing over time due to climate change? 
 
-I used both a multiple regression model and a neural network model to predict hurricane track movement based on latitude, longitude, wind speed, and SLP 6 hours before and 12 hours before, as well as the global mean temperature anomaly for that year. 
+I used both a multiple regression model and a neural network model to predict hurricane track movement based on latitude, longitude, wind speed, and sea level pressure 6 hours before and 12 hours before, as well as the global mean temperature anomaly for that year. 
 
 I produce predicted storm tracks and assess the accuracy of the model predictions 6 to 54 hours into the future. 
 
